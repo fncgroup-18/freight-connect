@@ -89,6 +89,24 @@ The server will start at `http://localhost:5000`.
 - `POST /api/conversations/<conversation_id>/messages` - Send message
 - `POST /api/conversations/<conversation_id>/archive` - Archive conversation
 
+## Website
+
+The FreightConnect website is hosted using GitHub Pages and can be accessed at `https://[your-github-username].github.io/freight-connect/`. The website provides:
+
+- Overview of the FreightConnect platform
+- Key features and benefits
+- How the platform works
+- Contact form for inquiries
+
+To enable GitHub Pages for this repository:
+
+1. Go to your repository settings
+2. Scroll down to the "GitHub Pages" section
+3. Under "Source", select the "main" branch and "/docs" folder
+4. Click "Save"
+
+The website will be available in a few minutes at the URL mentioned above.
+
 ## Contributing
 
 1. Fork the repository
